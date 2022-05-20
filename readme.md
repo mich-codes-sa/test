@@ -2,6 +2,10 @@
 
 This file is intended to serve as a reference document while I get into the habit of interacting with git for version control. I will be using the commands given while I followed the Tech With Tim tutorial at the following URL: https://www.youtube.com/watch?v=DVRQoVRzMIY
 
+git init
+    turn the directory you are in in the command prompt into a git repo
+git remote add origin url
+    downloads the code from a github repo with it's url to your local machine.
 git add .
     add all files to the staging area  
 git status
